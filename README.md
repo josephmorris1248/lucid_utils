@@ -11,7 +11,7 @@ To install (with all dependencies), simply run:
 Sometimes, the installation via pip of NumPy and SciPy, which the library requires, can cause errors. If this is the case, install them separately first using apt:
 
 ```
-# apt install python-numpy python scipy
+# apt install python-numpy python-scipy
 ```
 
 Or, for development purposes, the library can be installed manually:
